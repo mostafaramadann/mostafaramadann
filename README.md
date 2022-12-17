@@ -1,10 +1,11 @@
-### Hi there 👋
-
+### Hello There 👋
+# I am a computer vision & image processing enthusiast who's interested in creating and implementing research papers.
+- 📫 How to reach me: mostafa.ramadan1@msa.edu.eg
 <!--
 **mostafaramadann/mostafaramadann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- I am a computer vision & image processing  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
