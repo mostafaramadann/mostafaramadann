@@ -1,5 +1,5 @@
 ## Hello There 👋
-### I am a software engineer interested in cloud computing, computer vision & image processing and also interested in creating and implementing research papers.
+### I am a software engineer interested in cloud computing, computer vision & image processing .
 - 📫 How to reach me: mostafa.ramadan1@msa.edu.eg
 <!--
 **mostafaramadann/mostafaramadann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
