@@ -1,5 +1,5 @@
 ## Hello There 👋
-- 📫 How to reach me: mostafa.ramadann7@gmail.com
+<!-- - 📫 How to reach me: mostafa.ramadann7@gmail.com -->
 <!--
 **mostafaramadann/mostafaramadann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
